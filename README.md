@@ -13,7 +13,17 @@
 
 # 3rd Annual NYC WiMLDS / Scikit-learn Sprint  
 
-## Schedule
+## Key Links
+* [About WiMLDS open source sprints](http://wimlds.org/opensourcesprints-2/)
+* NYC WiMLDS [meetup event page](https://www.meetup.com/NYC-WiMLDS/events/259491883/)
+* NYC WiMLDS [sprint website](http://wimlds.org/opensourcesprints-2/nyc-scikit-sprint-2019/)
+* [Sprint Preparation List](http://wimlds.org/sprint-prep/)
+* List of [curated issues to work on](https://github.com/WiMLDS/nyc-2019-scikit-sprint/projects/1)
+* [Sprint GitHub repo](https://github.com/WiMLDS/nyc-2019-scikit-sprint)
+* [Sprint application form](https://forms.gle/CTk44nRGQC29X89d6)
+* Post-event [feedback survey](https://forms.gle/s3fawUbA79NF4NMz5)
+
+## Schedule for 24-Aug-2019
 - 9 am - 9:30 am: Arrive early for technical support
 - 9:30 am - 12 pm: Sprint
 - 12 pm - 1 pm: Lunch will be provided
@@ -45,7 +55,7 @@ CoC summary is adopted from [NumFOCUS](https://numfocus.org/code-of-conduct)
 ### Scikit-learn Host & Experts (Core Contributors)
 * Andy Mueller:  [@amuellerml](https://twitter.com/amuellerml)
 * Thomas Fan:  [@thomasjpfan](https://twitter.com/thomasjpfan)
-* Nicolas Hug:  [@hug_nicolas](hhttps://twitter.com/hug_nicolas)
+* Nicolas Hug:  [@hug_nicolas](https://twitter.com/hug_nicolas)
 
 
 ### Teaching Assistants from Bloomberg
@@ -66,7 +76,6 @@ CoC summary is adopted from [NumFOCUS](https://numfocus.org/code-of-conduct)
 - Involve more women and gender minorities in scikit-learn and open source
 - Build momentum for continued contribution
 
----
 
 ## Goals for the Day
 - The plan is to work in pairs. 
