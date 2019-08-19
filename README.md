@@ -1,2 +1,152 @@
-# nyc-2019-scikit-sprint
-NYC scikit-learn sprint (Aug 2019)
+
+
+  
+<p float="left">
+  <img src="images/blue_logo_full.jpg" height="100" width="400" />
+   <img  width="100" />
+  <img src="images/1280px-Scikit_learn_logo_small.svg.png" width="25%" height="25%" /> 
+
+</p>
+
+
+---
+
+# 3rd Annual NYC WiMLDS / Scikit-learn Sprint  
+
+## Schedule
+- 9 am - 9:30 am: Arrive early for technical support
+- 9:30 am - 12 pm: Sprint
+- 12 pm - 1 pm: Lunch will be provided
+- 1 pm - 6 pm: Sprint
+
+----
+## Code of Conduct
+**WiMLDS is dedicated to providing a harassment-free experience for everyone.** We do not tolerate harassment of participants in any form. All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate.
+
+**Be kind to others.** Do not insult or put down others. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate.
+
+**Thank you for helping make this a welcoming, friendly community for all.**  Please read the full [**Code of Conduct**](https://github.com/WiMLDS/starter-kit/wiki/Code-of-conduct) before participating.  
+
+CoC summary is adopted from [NumFOCUS](https://numfocus.org/code-of-conduct)
+
+---
+## The Team
+
+### WiMLDS Host
+* Reshama Shaikh:  [@reshamas](https://twitter.com/reshamas)
+
+
+### Sponsors  
+* **Microsoft Hack Reactor** 
+  * Microsoft Host:  [Nitya Narasimhan](https://twitter.com/nitya)
+* **Bloomberg**
+
+
+### Scikit-learn Host & Experts (Core Contributors)
+* Andy Mueller:  [@amuellerml](https://twitter.com/amuellerml)
+* Thomas Fan:  [@thomasjpfan](https://twitter.com/thomasjpfan)
+* Nicolas Hug:  [@hug_nicolas](hhttps://twitter.com/hug_nicolas)
+
+
+### Teaching Assistants from Bloomberg
+* [waiting for list]
+
+### Helpers
+* [Noemi Derzsy](https://twitter.com/NoemiDerzsy)
+* [Prithvi Gandhi](https://twitter.com/prithnpixels)
+* [Kelly Carnody](https://www.linkedin.com/in/kelly-carmody/)
+* [Carissa Shafto](https://twitter.com/carissa_shafto)
+* [Eszter Schoell](https://www.linkedin.com/in/eszterschoell/)
+
+---
+
+## Purpose of Sprint
+- Widen the pool of open-source contributors
+- Contribute to scikit-learn library
+- Involve more women and gender minorities in scikit-learn and open source
+- Build momentum for continued contribution
+
+---
+
+## Goals for the Day
+- The plan is to work in pairs. 
+- The goal is that each participant will be able to resolve one trivial fix and one actual fix.
+
+
+---
+
+## Preparation
+
+### 1.  GitHub Account
+- Open an account on [GitHub](https://github.com/)
+- [Git should be installed](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- Some familiarity with Git / GitHub 
+- Prior to event, review some [Git resources](https://github.com/reshamas/git-intro-workshop/blob/master/extra_resources/resource_git_tutorials.md) 
+- We will go over pull requests at beginning of event
+
+### 2.  Join [Gitter](https://gitter.im)
+Gitter is an open source instant messaging and chat room system for developers and users of GitHub repositories.  You can use your GitHub ID to sign in. 
+
+Join the scikit-learn Gitter community
+* [gitter.im/scikit-learn/home](https://gitter.im/scikit-learn/home)
+* [gitter.im/scikit-learn/wimlds](https://gitter.im/scikit-learn/wimlds)
+
+### 3.  Read thru [scikit-learn Contributing documentation](http://scikit-learn.org/stable/developers/contributing.html)
+* It is approximately 16 pages
+
+### 4.  Review [Open Issues](https://github.com/scikit-learn/scikit-learn/issues) 
+* [scikit-learn repository](https://github.com/scikit-learn/scikit-learn)
+* There are over 1000 issues :sweat:
+* For the sprint, we will focus on issues with the labels:  
+    - [easy](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aissue+is%3Aopen+label%3AEasy)
+    - [good first issue](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aissue+is%3Aopen+label%3A"good+first+issue")
+    - [help wanted](https://github.com/scikit-learn/scikit-learn/issues?q=is%3Aissue+is%3Aopen+label%3A"help+wanted")
+* Go through the issues (with the above labels) and become familiar with them 
+
+### 5.  Curated List of Issues
+- [issues to do list](https://github.com/WiMLDS/nyc-2019-scikit-sprint/projects/1)
+
+
+---
+
+## Day of Sprint
+
+### 1.  Hardware
+Bring your laptop and charger.
+
+### 2.  Nametags
+We will have stick-on nametags.  Make sure to wear one to network with other attendees.  Feel free to add your preferred pronoun and institution affiliation.
+
+### 3.  Taking Notes for Blog
+If you would like to blog about the event, email me (reshama@wimlds.org) and I would be happy to share and promote the blog with our community. 
+
+---
+
+## Twitter
+
+Please take photos and tweet about the event.
+
+### Groups
+
+- WiMLDS NYC:  [WiMLDS_NYC](https://twitter.com/WiMLDS_NYC)
+
+- WiMLDS:  [@wimlds](https://twitter.com/wimlds)
+
+- Microsoft: [@Microsoft](https://twitter.com/Microsoft)
+
+- Bloomberg: [@business](https://twitter.com/business)
+
+### Hashtags
+
+- #ScikitSprint
+- #opensource
+
+## Background Articles
+
+* [2017-2018 Sprint Impact Report](https://reshamas.github.io/impact-report-for-wimlds-scikit-learn-sprints/)
+
+* [Highlights from 2018 WiMLDS NYC / Scikit Sprint](https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint/)
+ 
+* [NYC WiMLDS Meetup Event](https://www.meetup.com/NYC-WiMLDS/events/259491883/) on 24-Aug-2019
+
+* Background: [Interview with Andreas Mueller, Core Contributor to Scikit-Learn](http://mlconf.com/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/)
