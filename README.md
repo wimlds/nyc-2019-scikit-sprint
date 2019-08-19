@@ -23,6 +23,9 @@
 * [Sprint application form](https://forms.gle/CTk44nRGQC29X89d6)
 * Post-event [feedback survey](https://forms.gle/s3fawUbA79NF4NMz5)
 
+## Contact
+Feel free to email us with any questions at nyc@wimlds.org
+
 ## Schedule for 24-Aug-2019
 - 9 am - 9:30 am: Arrive early for technical support
 - 9:30 am - 12 pm: Sprint
@@ -83,6 +86,17 @@ CoC summary is adopted from [NumFOCUS](https://numfocus.org/code-of-conduct)
 
 
 ---
+
+## Community Announcements
+
+### Support Open Source
+- There is no charge for the sprint.&nbsp; We ask you to donate a nominal amount ($5 to $10) [to NumFOCUS](https://numfocus.org/donate) to support open source.
+  - For "Donation Dedication:  indicate "scikit-learn"
+  - For "Please notify the following person that a donation has been made:  nyc@wimlds.org
+
+### Women's Space
+We welcome all genders.  We also ask our attendees to respect that this organization and event is a women's space.  One example of creating that space is allowing women to speak and ask questions.
+
 
 ## Preparation
 
