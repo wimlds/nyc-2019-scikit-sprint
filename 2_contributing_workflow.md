@@ -54,6 +54,12 @@ upstream	https://github.com/scikit-learn/scikit-learn.git (push)
 git pull upstream master
 ```
 
+### To fetch (someone else's) PR:
+```bash
+git fetch https://github.com/theirusername/reponame.git theirbranch:ourbranch
+```
+
+
 #### Build from source
 ```bash
 pip install -v -e .
