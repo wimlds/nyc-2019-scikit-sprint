@@ -24,14 +24,12 @@ source activate sklearndev
 ### Set up local repo  
 #### `git clone` your forked repo url.  
 
->my example
 ```bash
 git clone https://github.com/reshamas/scikit-learn.git
 ```
 
 #### `cd scikit-learn` into your folder
 
->my example
 ```bash
 cd scikit-learn
 ```
@@ -62,9 +60,9 @@ git fetch https://github.com/theirusername/reponame.git theirbranch:ourbranch
 ```
 
 
-#### Build and run tests
+#### Build from source
 ```bash
-pip install -e .
+pip install -v -e .
 ```
 Note:  this will overwrite existing installations
 Reference:  ["Editable" Installs](https://pip.pypa.io/en/stable/reference/pip_install/#examples)
