@@ -60,8 +60,12 @@ CoC summary is adopted from [NumFOCUS](https://numfocus.org/code-of-conduct)
 * Nicolas Hug:  [@hug_nicolas](https://twitter.com/hug_nicolas)
 
 
-### Teaching Assistants from Bloomberg
-* [waiting for list]
+### Scikit-learn Mentors from Bloomberg
+* [Shreya Venkatesh](https://www.linkedin.com/in/shreya-v-109bbaa3/)
+*	[Joanna Zhang](https://www.linkedin.com/in/zanaoj/)
+* [Saurabh Penkar](https://www.linkedin.com/in/suarabhpenkar/)
+* [Jay Bhatt](https://www.linkedin.com/in/jayybhatt/) 
+
 
 ### Helpers
 * [Noemi Derzsy](https://twitter.com/NoemiDerzsy)
