@@ -65,6 +65,7 @@ CoC summary is adopted from [NumFOCUS](https://numfocus.org/code-of-conduct)
 *	[Joanna Zhang](https://www.linkedin.com/in/zanaoj/)
 * [Saurabh Penkar](https://www.linkedin.com/in/suarabhpenkar/)
 * [Jay Bhatt](https://www.linkedin.com/in/jayybhatt/) 
+* [Hiren Mayani](https://www.linkedin.com/in/hirenmayani/)
 
 
 ### Helpers
