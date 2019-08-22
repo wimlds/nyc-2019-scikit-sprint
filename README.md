@@ -96,6 +96,7 @@ CoC summary is adopted from [NumFOCUS](https://numfocus.org/code-of-conduct)
 ### Women's Space
 We welcome all genders.  We also ask our attendees to respect that this organization and event is a women's space.  One example of creating that space is allowing women to speak and ask questions.
 
+---
 
 ## Preparation
 
