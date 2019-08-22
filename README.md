@@ -170,6 +170,4 @@ Please take photos and tweet about the event.
 
 * [Highlights from 2018 WiMLDS NYC / Scikit Sprint](https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint/)
  
-* [NYC WiMLDS Meetup Event](https://www.meetup.com/NYC-WiMLDS/events/259491883/) on 24-Aug-2019
-
 * Background: [Interview with Andreas Mueller, Core Contributor to Scikit-Learn](http://mlconf.com/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/)
