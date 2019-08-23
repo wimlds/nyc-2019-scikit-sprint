@@ -26,7 +26,7 @@
 * [Preparation List](http://wimlds.org/sprint-prep/)
 
 ### Sprint Day
-* 22-Aug-2019 [email reminders](https://www.meetup.com/NYC-WiMLDS/messages/boards/thread/52394272)
+* pre-event [email reminders](https://www.meetup.com/NYC-WiMLDS/messages/boards/thread/52394272)
 * List of [curated issues to work on](https://github.com/WiMLDS/nyc-2019-scikit-sprint/projects/1)
 * [Sprint GitHub repo](https://github.com/WiMLDS/nyc-2019-scikit-sprint)
 
