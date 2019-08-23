@@ -14,13 +14,22 @@
 # 3rd Annual NYC WiMLDS / Scikit-learn Sprint  
 
 ## Key Links
+
+### Background
 * [About WiMLDS open source sprints](http://wimlds.org/opensourcesprints-2/)
 * NYC WiMLDS [meetup event page](https://www.meetup.com/NYC-WiMLDS/events/259491883/)
 * NYC WiMLDS [sprint website](http://wimlds.org/opensourcesprints-2/nyc-scikit-sprint-2019/)
+
+### Sprint Application & Prep
+* [Sprint application form](https://forms.gle/CTk44nRGQC29X89d6)
 * [Sprint Preparation List](http://wimlds.org/sprint-prep/)
+
+### Sprint Day
+* 22-Aug-2019 [email reminders](https://www.meetup.com/NYC-WiMLDS/messages/boards/thread/52394272)
 * List of [curated issues to work on](https://github.com/WiMLDS/nyc-2019-scikit-sprint/projects/1)
 * [Sprint GitHub repo](https://github.com/WiMLDS/nyc-2019-scikit-sprint)
-* [Sprint application form](https://forms.gle/CTk44nRGQC29X89d6)
+
+### Post-sprint
 * Post-event [feedback survey](https://forms.gle/s3fawUbA79NF4NMz5)
 
 ## Contact
