@@ -21,8 +21,9 @@
 * NYC WiMLDS [sprint website](http://wimlds.org/opensourcesprints-2/nyc-scikit-sprint-2019/)
 
 ### Sprint Application & Prep
-* [Sprint application form](https://forms.gle/CTk44nRGQC29X89d6)
-* [Sprint Preparation List](http://wimlds.org/sprint-prep/)
+* [Application form](https://forms.gle/CTk44nRGQC29X89d6)
+* [Application reminders](https://mailchi.mp/4c3ede578241/nyc-wimlds-2019-scikit-sprint-applications-reminder)
+* [Preparation List](http://wimlds.org/sprint-prep/)
 
 ### Sprint Day
 * 22-Aug-2019 [email reminders](https://www.meetup.com/NYC-WiMLDS/messages/boards/thread/52394272)
@@ -35,7 +36,7 @@
 ## Contact
 Feel free to email us with any questions at nyc@wimlds.org
 
-## Schedule for 24-Aug-2019
+## Agenda for 24-Aug-2019
 - 9 am - 9:30 am: Arrive early for technical support
 - 9:30 am - 12 pm: Sprint
 - 12 pm - 1 pm: Lunch will be provided
