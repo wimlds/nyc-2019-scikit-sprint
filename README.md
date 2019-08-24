@@ -11,7 +11,7 @@
 
 ---
 
-# 3rd Annual NYC WiMLDS / Scikit-learn Sprint  
+# 2019 NYC WiMLDS / Scikit-learn Sprint  
 
 ## Key Links
 
