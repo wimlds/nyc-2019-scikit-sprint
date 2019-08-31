@@ -3,10 +3,10 @@ Hi Everyone,
 We are very excited to host the **3rd Annual WiMLDS/ scikit-learn open source sprint** and have you join us for a day of learning and contributing to a critical Python machine learning library!  We also think it will be day of fun and meeting new people.
 
 ## Agenda
-9:00 am  doors open
-9:30 am  Sprint begins with Andreas Mueller introducing Contributing process
+- 9:00 am  doors open
+- 9:30 am  Sprint begins with Andreas Mueller introducing Contributing process
 
-Arrive early at 9:00 am for any installation or technical questions.
+- Arrive early at 9:00 am for any installation or technical questions.
 
 ## Pre-event Reminders
 
