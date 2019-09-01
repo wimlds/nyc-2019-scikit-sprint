@@ -1,2 +1,2 @@
 # Contributing Resources
-- [software requirements](software_requirements.md)
+- [software requirements](installs_prep.md)
