@@ -28,7 +28,7 @@
 ### Sprint Day
 * pre-event [email reminders](https://www.meetup.com/NYC-WiMLDS/messages/boards/thread/52394272)
 * List of [curated issues to work on](https://github.com/WiMLDS/nyc-2019-scikit-sprint/projects/1)
-* Sprint GitHub repo: [/WiMLDS/nyc-2019-scikit-sprint/](https://github.com/WiMLDS/nyc-2019-scikit-sprint)
+* Sprint GitHub repo: [WiMLDS/nyc-2019-scikit-sprint/](https://github.com/WiMLDS/nyc-2019-scikit-sprint)
 
 ### Post-sprint
 * Post-event [feedback survey](https://forms.gle/s3fawUbA79NF4NMz5)
