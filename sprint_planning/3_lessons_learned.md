@@ -15,3 +15,5 @@
 - do not have set deadline for applications.  make it rolling applications
 - `conda install` instructions updated adding `conda-forge`
 - do not promote sponsors until sponsorship funds have been received
+- have people submit feedback survey at end of event
+- using meetup glitches: some attendees do not join meetup group so don't receive communications
