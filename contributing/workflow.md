@@ -171,12 +171,12 @@ Do this on GitHub.
 REMINDER:  Under `Conversation [description]` include references to which **Issues** and other **PRs** that your PR is related to.  
 
 <kbd>
-<img src="images/pr_ex1_raw.png"  width="80%" height="80%" />
+<img src="../images/pr_ex1_raw.png"  width="80%" height="80%" />
 </kbd>
 
 
 <kbd>
-<img src="images/pr_ex1_md.png"  width="80%" height="80%" />
+<img src="../images/pr_ex1_md.png"  width="80%" height="80%" />
 </kbd>
 
 
