@@ -27,6 +27,7 @@ Thank you Microsoft and Bloomberg LP for hosting the 24th August 2019 #NYC #Spri
 - Anuja Kelkar on Twitter:  
  - https://twitter.com/AgileAnuja/status/1166885467314434049
  - https://twitter.com/AgileAnuja/status/1165455227958349824
+
 >Yayyy! Also, my PR is now merged into scikit-learn! Thanks to this open source sprint, I have started my open source journey! #opensource #wimlds
 
 - Sam Bail on Twitter:  https://twitter.com/spbail/status/1165338348732538880
