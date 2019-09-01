@@ -8,7 +8,7 @@
 ---
 
 <p float="left">
-  <img src="images/nyc_sprint.jpg" width="99%" height="99%" />
+  <img src="images/nyc_sprint.png" width="99%" height="99%" />
 </p>
 
 ---
