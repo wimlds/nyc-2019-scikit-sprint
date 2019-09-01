@@ -57,14 +57,13 @@ CoC summary is adopted from [NumFOCUS](https://numfocus.org/code-of-conduct)
 ---
 ## The Team
 
+### WiMLDS Host
+* Reshama Shaikh:  [@reshamas](https://twitter.com/reshamas)
+
 ### Sponsors  
 * **Microsoft Hack Reactor** 
   * Microsoft Host:  [Nitya Narasimhan](https://twitter.com/nitya)
 * **Bloomberg**
-
-### WiMLDS Host
-* Reshama Shaikh:  [@reshamas](https://twitter.com/reshamas)
-
 
 ### Scikit-learn Host & Experts (Core Contributors)
 * Andy Mueller:  [@amuellerml](https://twitter.com/amuellerml)
