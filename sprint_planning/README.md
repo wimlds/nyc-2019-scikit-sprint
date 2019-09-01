@@ -7,7 +7,7 @@
 - 11-Jul-2019:  [NYC: last day to apply](https://twitter.com/amuellerml/status/1149324323292950528)
 - 09-Jul-2019:  (email) [apply by July 12](https://www.meetup.com/NYC-WiMLDS/messages/boards/thread/52315718)
 - 09-Jul-2019 (mailchimp)  [apply by July 12](https://mailchi.mp/4c3ede578241/nyc-wimlds-2019-scikit-sprint-applications-reminder)
-- 27-Jun-2019:  [NYC: sprint applications open](https://twitter.com/reshamas/status/1144301781545041920)
+- 27-Jun-2019:  (tweet) [NYC: sprint applications open](https://twitter.com/reshamas/status/1144301781545041920)
 - 27-Jun-2019 (mailchimp) [NYC: sprint applications open](https://mailchi.mp/ef66cbf6aca1/nyc-wimlds-2019-scikit-sprint-applications-open-3460337)
 
 
