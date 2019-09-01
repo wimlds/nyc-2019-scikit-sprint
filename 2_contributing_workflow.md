@@ -15,6 +15,11 @@ conda create -n sklearndev numpy scipy matplotlib pytest sphinx cython ipykernel
 ```bash
 source activate sklearndev
 ```
+#### Additional installs
+```bash
+conda install -c conda-forge sphinx-gallery
+```
+
 ---
 
 ## PART B:  Set-up repository
@@ -22,7 +27,7 @@ source activate sklearndev
 ### Fork repo:  https://github.com/scikit-learn/scikit-learn
 
 ### Set up local repo  
-#### `git clone` your forked repo url.  
+#### `git clone` your forked repo url.  (Use `HTTPS` url over `SSH` if you do not have `ssh` keys set up.)
 
 ```bash
 git clone https://github.com/reshamas/scikit-learn.git
@@ -151,7 +156,7 @@ sklearn/metrics/tests/test_classification.py ...................................
 ---
 
 ## PART G:  Submit Pull Request
-#### After all tests have passed, push update file(s) to feature branch
+### After all tests have passed, push update file(s) to feature branch
 - `test_file` should be committed to feature branch as well
 
 ```bash
@@ -160,8 +165,21 @@ git commit -m 'description for test file'
 git push origin <feature_branch>
 ```
 
-#### Submit PR  
-Do this on GitHub.
+### Submit PR  
+Do this on GitHub. 
+
+REMINDER:  Under `Conversation [description]` include references to which **Issues** and other **PRs** that your PR is related to.  
+
+<kbd>
+<img src="images/pr_ex1_raw.png"  width="80%" height="80%" />
+</kbd>
+
+
+<kbd>
+<img src="images/pr_ex1_md.png"  width="80%" height="80%" />
+</kbd>
+
+
 
 ---
 
