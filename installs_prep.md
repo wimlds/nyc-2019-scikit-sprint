@@ -25,7 +25,7 @@ Jupyter Notebook is included in the Anaconda installation.  Review Jupyter Noteb
 - Save your user ID and password somewhere you can easily find it
 
 ## Join Gitter
-Join gitter using your GitHub ID:  gitter.im/scikit-learn/wimlds
+Join [wimlds gitter](gitter.im/scikit-learn/wimlds) using your GitHub ID.
   
 ## Choose a Graphical Editor
 - Try Visual Studio Code
@@ -36,28 +36,14 @@ Join gitter using your GitHub ID:  gitter.im/scikit-learn/wimlds
  	* [Notepad++](https://notepad-plus-plus.org/) (for Windows)
   
  
-## Set up Virtual Environment
-
-```bash
-# Create virtual environment
-conda create --name sklearndev numpy scipy matplotlib pytest sphinx cython ipykernel
-
-# To activate this environment, use
-conda activate sklearndev
-
-# To deactivate an active environment, use
-conda deactivate
-```
-
 ---
 
 # Scikit-learn Requirements for Sprint
 
 1) Read thru "Contributing" documentation
 - http://scikit-learn.org/stable/developers/contributing.html
-- it is approximately 20 pages
+- it is approximately 25 pages
 
 2) Review Open Issues
-go through some Issues and become familiar with them
-https://github.com/scikit-learn/scikit-learn/issues
+- go through some Issues and become familiar with them:  [scikit-learn issues](https://github.com/scikit-learn/scikit-learn/issues)
 
