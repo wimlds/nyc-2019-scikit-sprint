@@ -1,5 +1,5 @@
 # Contributing Resources
-- [software requirements](installs_prep.md)
+- [Software Requirements](installs_prep.md) (installation: Anaconda and more)
 - [Contributing Workflow](workflow.md)
 - `pytest`: example of [output](pytest_sklearn_output.md)
 - `flake8`: examples of [output](flake8.md)
