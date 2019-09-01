@@ -11,3 +11,7 @@
 8.  Communicate to attendees during the sprint if/how we would like them to complete their open PR
 
 ## 2019
+- 44 attendees too many.  reduce number of attendees to a manageable group
+- do not have set deadline for applications.  make it rolling applications
+- `conda install` instructions updated adding `conda-forge`
+- do not promote sponsors until sponsorship funds have been received
