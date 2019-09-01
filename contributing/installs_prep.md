@@ -36,14 +36,3 @@ Join [wimlds gitter](gitter.im/scikit-learn/wimlds) using your GitHub ID.
  	* [Notepad++](https://notepad-plus-plus.org/) (for Windows)
   
  
----
-
-# Scikit-learn Requirements for Sprint
-
-1) Read thru "Contributing" documentation
-- http://scikit-learn.org/stable/developers/contributing.html
-- it is approximately 25 pages
-
-2) Review Open Issues
-- go through some Issues and become familiar with them:  [scikit-learn issues](https://github.com/scikit-learn/scikit-learn/issues)
-
