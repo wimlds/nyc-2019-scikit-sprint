@@ -183,9 +183,12 @@ Please take photos and tweet about the event.
 * [About WiMLDS open source sprints](http://wimlds.org/opensourcesprints-2/)
 
 * [Nairobi WiMLDS 2019 Sprint Impact Report](https://reshamas.github.io/nairobi-wimlds-2019-scikit-learn-sprint-impact-report/)
+    * [Scikit-learn Sprint at Nairobi, Kenya by Adrin Jalali, scikit-learn core contributor](https://adrin.info/scikit-learn-sprint-at-nairobi-kenya.html)
+    * [Highlights from the 2019 Nairobi WiMLDS Scikit-learn Sprint  by Mariam Haji](https://medium.com/@mariamhaji01/highlights-from-the-2019-nairobi-wimlds-scikit-sprint-889de3b20215)
 
-* [2017-2018 Sprint Impact Report](https://reshamas.github.io/impact-report-for-wimlds-scikit-learn-sprints/)
-
-* [Highlights from 2018 WiMLDS NYC / Scikit Sprint](https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint/)
+* [NYC WiMLDS: 2017-2018 Sprint Impact Report](https://reshamas.github.io/impact-report-for-wimlds-scikit-learn-sprints/)
+    * [Highlights from 2018 WiMLDS NYC / Scikit Sprint](https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint/)
  
-* Background: [Interview with Andreas Mueller, Core Contributor to Scikit-Learn](http://mlconf.com/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/)
+* [Interview with Andreas Mueller, Core Contributor to Scikit-Learn](http://mlconf.com/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/)
+
+
