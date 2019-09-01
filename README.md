@@ -180,6 +180,9 @@ Please take photos and tweet about the event.
 - #opensource
 
 ## Background Articles
+* [About WiMLDS open source sprints](http://wimlds.org/opensourcesprints-2/)
+
+* [Nairobi WiMLDS 2019 Sprint Impact Report](https://reshamas.github.io/nairobi-wimlds-2019-scikit-learn-sprint-impact-report/)
 
 * [2017-2018 Sprint Impact Report](https://reshamas.github.io/impact-report-for-wimlds-scikit-learn-sprints/)
 
