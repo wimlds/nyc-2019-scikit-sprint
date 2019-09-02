@@ -1,4 +1,4 @@
-# Participant Feedback
+# Participant Feedback on NYC 2019 Sprint
 
 - Ruchita Garde on LinkedIn:  https://www.linkedin.com/posts/ruchita-garde_scikitlearn-opensource-machinelearning-activity-6572657690378596352-eKw6
 >Contributing to #scikitlearn , an #opensource #machinelearning library used by thousands of people around the world and knowing that something they see has been touched by you is pretty rewarding. Spent an entire day at the #WiMLDS sprint to get my first PR approved, & 2nd PR is on the way. Kudos to all the selfless contributors of all open source who spend years on something that I so easily use!
