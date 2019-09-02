@@ -19,3 +19,7 @@ Thank you Microsoft and Bloomberg LP for hosting the 24th August 2019 #NYC #Spri
 
 - Mei Guan on Twitter:  https://twitter.com/Rei780/status/1165385960995119104
 >Thank you @WiMLDS_NYC @amuellerml @thomasjpfan @hug_nicolas for an amazing Saturday. I learned lots and am appreciative of immensely patient experts who supported us today.
+
+- Mariel Martinez on Twitter:  https://twitter.com/Marielme/status/1165376596066390016
+>I feel so happy to participate today at Annual Scikit-learn spring, thanks to 
+@WiMLDS_NYC @amuellerml, also I happy with my new book.
