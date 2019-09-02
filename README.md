@@ -7,6 +7,8 @@
 
 ---
 
+Twitter Moment:  [NYC WiMLDS 2019 Scikit-Learn Sprint](https://twitter.com/i/moments/1168528872553570304)
+
 <p float="left">
   <img src="images/nyc_sprint.png" width="99%" height="99%" />
 </p>
