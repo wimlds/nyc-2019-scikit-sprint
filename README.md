@@ -7,8 +7,6 @@
 
 ---
 
-Twitter Moment:  [NYC WiMLDS 2019 Scikit-Learn Sprint](https://twitter.com/i/moments/1168528872553570304)
-
 <p float="left">
   <img src="images/nyc_sprint.png" width="99%" height="99%" />
 </p>
@@ -18,6 +16,9 @@ Twitter Moment:  [NYC WiMLDS 2019 Scikit-Learn Sprint](https://twitter.com/i/mom
 # 2019 NYC WiMLDS / Scikit-learn Sprint  
 
 ## Key Links
+
+### Photos & Tweets
+Twitter Moment:  [NYC WiMLDS 2019 Scikit-Learn Sprint](https://twitter.com/i/moments/1168528872553570304)
 
 ### Background
 * [About WiMLDS open source sprints](http://wimlds.org/opensourcesprints-2/)
